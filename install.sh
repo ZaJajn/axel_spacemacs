@@ -1,7 +1,7 @@
 cd ~
 sudo dnf install emacs python-pip adobe-source-code-pro-fonts python-virtualenv
 pip3 install virtualenv virtualenvwrapper
-sudo pip install jedi
+sudo pip3 install jedi
 rm -rf .emacs.d .emacs .spacemacs .spacemacs.d
 mkdir ~/.emacs.d
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
