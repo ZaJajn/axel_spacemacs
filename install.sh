@@ -10,4 +10,5 @@ cd ~
 cp axel_spacemacs/.spacemacs ~
 cd ~
 rm -rf axel_spacemacs
-emacs --insecure
+emacs --insecure&
+echo 郑靖岚最咸湿
