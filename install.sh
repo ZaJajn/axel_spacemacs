@@ -12,4 +12,4 @@ cp axel_spacemacs/.spacemacs ~
 cd ~
 rm -rf axel_spacemacs
 emacs --insecure&
-echo 龙徳辉最咸湿
+echo 郑靖岚最咸湿
